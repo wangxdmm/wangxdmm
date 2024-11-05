@@ -1,8 +1,6 @@
 ## 🪐 About Me
 
-- 👋 Hi, I'm **wangxdmm**, an ordinary frontend programmer. 
-- Every bug is a stepping stone to your success.
-- Every living person is both living and dying every day, Get busy living or get busy dying.
+- 👋 Hi, I'm **wangxdmm**, an ordinary frontend programmer.
 
 ## 🛠 Technology Stack
 
