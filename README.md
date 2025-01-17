@@ -1,8 +1,9 @@
 ## 🪐 About Me
 
-- 👋 Hi, I'm **wangxdmm**, an ordinary frontend programmer.
+👋 Hi, I'm **wangxdmm**, an ordinary frontend programmer.
 
 功不唐捐 玉汝于成
+
 ## 🛠 Technology Stack
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
