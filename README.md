@@ -1,8 +1,8 @@
 ## 🪐 About Me
 
-👋 Hi, I'm **wangxdmm**, an ordinary frontend programmer.
+👋 Hi, I'm **wangxdmm**.
 
-功不唐捐 玉汝于成
+无论人生上到哪一层台阶，阶下有人在仰望你，阶上亦有人在俯视你，你抬头自卑，低头自得，唯有平视，才能看见真实的自己。
 
 ## 🛠 Technology Stack
 
